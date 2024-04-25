@@ -4,6 +4,8 @@
 public class hello{
     public static void main(string[]args){
         string x= "hello world";
-        system.out.println(x);
+                string y= "hello ";
+
+        system.out.println(x + y);5
     }
 }
